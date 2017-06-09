@@ -5,3 +5,4 @@ a peer- to-peer (P2P) images sharing system. A hybrid P2P structure is used in t
 How to run it:
 First, run ImageServer.java up, choose image to share.
 Then, run ImagePeer.java up, type in username & password(both of them are "admin"), type in server ip.
+
